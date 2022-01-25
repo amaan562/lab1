@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding:0;
+}
+html{
+	text-align: center;
+	color: white;
+	display: flex;
+	flex-direction: column;
+}
+.container{
+	width: 100vw;
+	height: 50vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#c1{
+	background-color:#8c8c8c;
+}
+#c2{
+	background-color:#333333;
+}
+
